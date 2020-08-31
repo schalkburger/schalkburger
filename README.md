@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I'm Schalk Burger <img src="https://raw.githubusercontent.com/schalkburger/schalkburger/master/assets/wave.gif" width="30px">
+
+I’m a front-end developer with over 10 years experience developing websites and applications with HTML, CSS, JS, React and WordPress.
+
+Visit schalkburger.io to learn more about me.
 
 <!--
 **schalkburger/schalkburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

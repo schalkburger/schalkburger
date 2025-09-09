@@ -69,8 +69,15 @@ I’m passionate about creating beautiful, functional, and user-friendly digital
 
 <br/>
 
-| GitHub Stats  | Top Repositories |
-| :------------- | :------------- |
-| <a href="https://www.github.com/schalkburger"><img src="https://github-readme-stats.vercel.app/api?username=schalkburger&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="schalkburger's GitHub stats" /></a>  | <div width="100%" align="center"><a href="https://github.com/schalkburger/ExplorerF11Fix" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=schalkburger&repo=ExplorerF11Fix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br />  |
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/schalkburger/schalkburger/refs/heads/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/schalkburger/schalkburger/refs/heads/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/schalkburger/schalkburger/refs/heads/github-breakout/images/breakout-dark.svg" />
+</picture>
 

@@ -12,7 +12,7 @@ I’m passionate about creating beautiful, functional, and user-friendly digital
 *   🌍  I'm based in Cape Town, South Africa
 *   🚀  Visit my website at [schalkburger.dev](http://schalkburger.dev/)
 *   ✉️  You can contact me at [schalkb@gmail.com](mailto:schalkb@gmail.com)
-*   🚀  I'm currently working on [my blog](https://schalkburger.io/blog)
+*   🚀  I'm currently working on [my blog](https://schalkburger.dev/blog)
 
 <br/>
 

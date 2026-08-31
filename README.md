@@ -1,11 +1,9 @@
 Hello, my name is Schalk Burger
 =====================================================================================================================================
 
-## I'm a web designer & frontend developer who is crafting digital experiences.
+## I am a web designer and front-end developer based in Cape Town, South Africa.
 
-In the dynamic world of digital design and development, I’ve carved out my space as a web designer and frontend developer, rooted in the vibrant, inspiring city of Cape Town, South Africa.
-
-My journey began with a fascination for how pixels and code could come together to create something beautiful, functional, and meaningful.
+My path started because I wanted to know how pixels and code could work together to make things that look great and actually work well. Today, I focus on building clean, functional, and intuitive digital interfaces.
 
 I’m passionate about creating beautiful, functional, and user-friendly digital experiences that leave a lasting impression.
 
